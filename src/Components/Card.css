@@ -1,0 +1,33 @@
+.Card{
+}
+.name{
+    position: absolute;
+    left: 100px;
+    top: 20px;
+}
+.mana_cost{
+    position: absolute;
+    left: 300px;
+    top: 20px;
+}
+.rule_text{
+    position: absolute;
+    left: 100px;
+    top: 500px;
+}
+.edition{
+    position: absolute;
+    left: 300px;
+    top: 400px;
+}
+.rarity{
+    position: absolute;
+    left: 300px;
+    top: 420px;
+}
+
+.types{
+    position: absolute;
+    left: 100px;
+    top: 400px;
+}
